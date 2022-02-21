@@ -1,0 +1,83 @@
+{
+    "driverData": [{
+            "vehical": "cab",
+            "driverName": "prajot",
+            "carNumber": "MH60551",
+            "phoneNumber": "9757857898",
+            "carColour": "Red",
+            "Rating": "4.5",
+            "price": "200$",
+            "feedback": [
+                "gooood",
+                "great"
+            ]
+        },
+        {
+            "vehical": "taxi",
+            "driverName": "piyush",
+            "carNumber": "MH60552",
+            "phoneNumber": "9766543665",
+            "carColour": "Black",
+            "Rating": "3.5",
+            "price": "437$",
+            "feedback": []
+        },
+        {
+            "vehical": "auto",
+            "driverName": "yuvansh",
+            "carNumber": "MH60553",
+            "phoneNumber": "7745758936",
+            "carColour": "White",
+            "Rating": "3.6",
+            "price": "764$",
+            "feedback": []
+        },
+        {
+            "vehical": "cab",
+            "driverName": "mahi",
+            "carNumber": "MH60554",
+            "phoneNumber": "7048538047",
+            "carColour": "Grey",
+            "Rating": "6.3",
+            "price": "356$",
+            "feedback": [
+                "good",
+                "bad"
+            ]
+        },
+        {
+            "vehical": "auto",
+            "driverName": "raj",
+            "carNumber": "MH60555",
+            "phoneNumber": "7597388940",
+            "carColour": "Blue",
+            "Rating": "2.5",
+            "price": "506$",
+            "feedback": []
+        },
+        {
+            "vehical": "taxi",
+            "driverName": "nikhil",
+            "carNumber": "MH60565",
+            "phoneNumber": "9766543675",
+            "carColour": "Black & white",
+            "Rating": "3.5",
+            "price": "437$",
+            "feedback": [
+                "great"
+            ]
+        },
+        {
+            "vehical": "taxi",
+            "driverName": "abhi",
+            "carNumber": "MH60550",
+            "phoneNumber": "97665436667",
+            "carColour": "sky blue",
+            "Rating": "3.6",
+            "price": "438$",
+            "feedback": [
+                "bad"
+            ]
+        }
+    ]
+}
